@@ -1,4 +1,5 @@
-# create-svelte
+# Cinewatch
+[![wakatime](https://wakatime.com/badge/user/f983c5d0-c6d8-471e-a499-43763ad1d6b4/project/018e57ff-f5c4-4339-9bd3-fa5879f59b89.svg)](https://wakatime.com/badge/user/f983c5d0-c6d8-471e-a499-43763ad1d6b4/project/018e57ff-f5c4-4339-9bd3-fa5879f59b89)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
